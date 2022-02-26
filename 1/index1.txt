@@ -1,0 +1,402 @@
+[
+    {
+        "file_name": "1.txt",
+        "url": "https://kpfu.ru/"
+    },
+    {
+        "file_name": "2.txt",
+        "url": "https://vk.com/kazan_federal_university"
+    },
+    {
+        "file_name": "3.txt",
+        "url": "https://kpfu.ru/eng"
+    },
+    {
+        "file_name": "4.txt",
+        "url": "http://kpfu.ru/admissions"
+    },
+    {
+        "file_name": "5.txt",
+        "url": "https://kadry.kpfu.ru/"
+    },
+    {
+        "file_name": "6.txt",
+        "url": "https://kpfu.ru/library"
+    },
+    {
+        "file_name": "7.txt",
+        "url": "https://kpfu.ru/about_university/struct"
+    },
+    {
+        "file_name": "8.txt",
+        "url": "https://kpfu.ru/about_university/document"
+    },
+    {
+        "file_name": "9.txt",
+        "url": "https://kpfu.ru/about_university/istoriya-universiteta"
+    },
+    {
+        "file_name": "10.txt",
+        "url": "https://kpfu.ru/cpr/ppk"
+    },
+    {
+        "file_name": "11.txt",
+        "url": "https://kpfu.ru/staff/sotrudniki-kfu"
+    },
+    {
+        "file_name": "12.txt",
+        "url": "https://kpfu.ru/studentu/studenty-kfu"
+    },
+    {
+        "file_name": "13.txt",
+        "url": "https://kpfu.ru/open"
+    },
+    {
+        "file_name": "14.txt",
+        "url": "https://kpfu.ru/edu/povyshennye-stipendii"
+    },
+    {
+        "file_name": "15.txt",
+        "url": "https://kpfu.ru/do/struktura-i-funkcii/otdel-razvitiya-karery/praktika-165"
+    },
+    {
+        "file_name": "16.txt",
+        "url": "https://kpfu.ru/do/struktura-i-funkcii/otdel-razvitiya-karery/rabotodatelyam"
+    },
+    {
+        "file_name": "17.txt",
+        "url": "https://kpfu.ru/edu/dopolnitelnoe-obrazovanie"
+    },
+    {
+        "file_name": "18.txt",
+        "url": "https://kpfu.ru/nauka-i-issledovaniya/plans-research"
+    },
+    {
+        "file_name": "19.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=5041"
+    },
+    {
+        "file_name": "20.txt",
+        "url": "https://kpfu.ru/science/eksportnyj-kontrol"
+    },
+    {
+        "file_name": "21.txt",
+        "url": "https://kpfu.ru/science/upravlenie-nauchno-issledovatelskoj-deyatelnosti/dokumenty"
+    },
+    {
+        "file_name": "22.txt",
+        "url": "https://kpfu.ru/science/konferencii/perechen-nauchno-tehnicheskih-meropriyatij-kfu"
+    },
+    {
+        "file_name": "23.txt",
+        "url": "https://kpfu.ru/science/2021-god-god-nauki-i-tehnologij"
+    },
+    {
+        "file_name": "24.txt",
+        "url": "https://kpfu.ru/glavnaya/zdravoohranenie"
+    },
+    {
+        "file_name": "25.txt",
+        "url": "https://kpfu.ru/social/o-merah-po-preduprezhdeniju-koronavirusa-i-117857"
+    },
+    {
+        "file_name": "26.txt",
+        "url": "https://kpfu.ru/biology-medicine/struktura-instituta/centr-simulyacionnogo-i-imitacionnogo-obucheniya/inzhiniringovyj-centr-medicinskih-simulyatorov"
+    },
+    {
+        "file_name": "27.txt",
+        "url": "https://kpfu.ru/international"
+    },
+    {
+        "file_name": "28.txt",
+        "url": "https://admissions.kpfu.ru/#nopage"
+    },
+    {
+        "file_name": "29.txt",
+        "url": "https://kpfu.ru/international/migracionnoe-soprovozhdenie-inostrannyh-grazhdan"
+    },
+    {
+        "file_name": "30.txt",
+        "url": "https://kpfu.ru/international/priznanie-inostrannogo-obrazovaniya"
+    },
+    {
+        "file_name": "31.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=5056"
+    },
+    {
+        "file_name": "32.txt",
+        "url": "https://kpfu.ru/alumnus"
+    },
+    {
+        "file_name": "33.txt",
+        "url": "https://kpfu.ru/job"
+    },
+    {
+        "file_name": "34.txt",
+        "url": "https://kpfu.ru/direkciya-sportivnyh-kompleksov"
+    },
+    {
+        "file_name": "35.txt",
+        "url": "https://kpfu.ru/social/god-rodnyh-yazykov-i-narodnogo-edinstva"
+    },
+    {
+        "file_name": "36.txt",
+        "url": "https://media.kpfu.ru/news"
+    },
+    {
+        "file_name": "37.txt",
+        "url": "https://students.kpfu.ru/about-student-club/club/about"
+    },
+    {
+        "file_name": "38.txt",
+        "url": "https://kpfu.ru/admissions"
+    },
+    {
+        "file_name": "39.txt",
+        "url": "https://prepschool.kpfu.ru/"
+    },
+    {
+        "file_name": "40.txt",
+        "url": "https://geogr.kpfu.ru/"
+    },
+    {
+        "file_name": "41.txt",
+        "url": "https://geo.kpfu.ru/"
+    },
+    {
+        "file_name": "42.txt",
+        "url": "https://imm.kpfu.ru/"
+    },
+    {
+        "file_name": "43.txt",
+        "url": "https://physics.kpfu.ru/"
+    },
+    {
+        "file_name": "44.txt",
+        "url": "https://law.kpfu.ru/"
+    },
+    {
+        "file_name": "45.txt",
+        "url": "https://computing.kpfu.ru/"
+    },
+    {
+        "file_name": "46.txt",
+        "url": "https://www.kpfu.ru/main_page?p_sub=222"
+    },
+    {
+        "file_name": "47.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=88"
+    },
+    {
+        "file_name": "48.txt",
+        "url": "https://itis.kpfu.ru/"
+    },
+    {
+        "file_name": "49.txt",
+        "url": "https://biology.kpfu.ru/"
+    },
+    {
+        "file_name": "50.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=22881"
+    },
+    {
+        "file_name": "51.txt",
+        "url": "https://kpfu.ru/imoiv"
+    },
+    {
+        "file_name": "52.txt",
+        "url": "https://kpfu.ru/institutes/isfnmk"
+    },
+    {
+        "file_name": "53.txt",
+        "url": "https://hspa.kpfu.ru/"
+    },
+    {
+        "file_name": "54.txt",
+        "url": "https://kpfu.ru/chelny"
+    },
+    {
+        "file_name": "55.txt",
+        "url": "https://kpfu.ru/elabuga"
+    },
+    {
+        "file_name": "56.txt",
+        "url": "https://eng.kpfu.ru/news-archive/"
+    },
+    {
+        "file_name": "57.txt",
+        "url": "https://eng.kpfu.ru/mission-strategy/"
+    },
+    {
+        "file_name": "58.txt",
+        "url": "https://eng.kpfu.ru/history-honors/"
+    },
+    {
+        "file_name": "59.txt",
+        "url": "https://eng.kpfu.ru/prizes-awards/"
+    },
+    {
+        "file_name": "60.txt",
+        "url": "https://eng.kpfu.ru/leadership/"
+    },
+    {
+        "file_name": "61.txt",
+        "url": "https://eng.kpfu.ru/supervisory-board/"
+    },
+    {
+        "file_name": "62.txt",
+        "url": "https://eng.kpfu.ru/accreditation-documents/"
+    },
+    {
+        "file_name": "63.txt",
+        "url": "https://eng.kpfu.ru/contact-us/"
+    },
+    {
+        "file_name": "64.txt",
+        "url": "https://eng.kpfu.ru/city-of-kazan/"
+    },
+    {
+        "file_name": "65.txt",
+        "url": "https://eng.kpfu.ru/tuition-fees/"
+    },
+    {
+        "file_name": "66.txt",
+        "url": "https://eng.kpfu.ru/scholarships/future-in-russia/"
+    },
+    {
+        "file_name": "67.txt",
+        "url": "https://eng.kpfu.ru/academic-recognition/"
+    },
+    {
+        "file_name": "68.txt",
+        "url": "https://eng.kpfu.ru/china/"
+    },
+    {
+        "file_name": "69.txt",
+        "url": "https://eng.kpfu.ru/contact-us/admission-unit/"
+    },
+    {
+        "file_name": "70.txt",
+        "url": "https://eng.kpfu.ru/bachelor-specialist/programs-and-tuition-fees/"
+    },
+    {
+        "file_name": "71.txt",
+        "url": "https://eng.kpfu.ru/master/programs-and-tuition-fees/"
+    },
+    {
+        "file_name": "72.txt",
+        "url": "https://eng.kpfu.ru/phd/programs-and-tuition-fees/"
+    },
+    {
+        "file_name": "73.txt",
+        "url": "https://eng.kpfu.ru/english-taught-programs/programs-and-tuition-fees/"
+    },
+    {
+        "file_name": "74.txt",
+        "url": "https://eng.kpfu.ru/exchange-programs/"
+    },
+    {
+        "file_name": "75.txt",
+        "url": "https://eng.kpfu.ru/short-language-programs-2/"
+    },
+    {
+        "file_name": "76.txt",
+        "url": "https://eng.kpfu.ru/research-training/"
+    },
+    {
+        "file_name": "77.txt",
+        "url": "https://eng.kpfu.ru/institutes-faculties/"
+    },
+    {
+        "file_name": "78.txt",
+        "url": "https://eng.kpfu.ru/how-to-pay/"
+    },
+    {
+        "file_name": "79.txt",
+        "url": "https://eng.kpfu.ru/transfer-to-kfu/"
+    },
+    {
+        "file_name": "80.txt",
+        "url": "https://eng.kpfu.ru/academic-leave/"
+    },
+    {
+        "file_name": "81.txt",
+        "url": "https://eng.kpfu.ru/for-dismissed-students/"
+    },
+    {
+        "file_name": "82.txt",
+        "url": "https://eng.kpfu.ru/research-areas/"
+    },
+    {
+        "file_name": "83.txt",
+        "url": "https://eng.kpfu.ru/scientific-journals/"
+    },
+    {
+        "file_name": "84.txt",
+        "url": "https://eng.kpfu.ru/scientific-events/"
+    },
+    {
+        "file_name": "85.txt",
+        "url": "https://eng.kpfu.ru/international-memberships-2/"
+    },
+    {
+        "file_name": "86.txt",
+        "url": "https://eng.kpfu.ru/international-reports/"
+    },
+    {
+        "file_name": "87.txt",
+        "url": "https://eng.kpfu.ru/migration-card-and-migration-registration/"
+    },
+    {
+        "file_name": "88.txt",
+        "url": "https://eng.kpfu.ru/invitation-of-foreign-nationals-coming-from-visa-required-countries/"
+    },
+    {
+        "file_name": "89.txt",
+        "url": "https://eng.kpfu.ru/visa-extension/"
+    },
+    {
+        "file_name": "90.txt",
+        "url": "https://eng.kpfu.ru/frequently-asked-questions/"
+    },
+    {
+        "file_name": "91.txt",
+        "url": "https://eng.kpfu.ru/senior-students/"
+    },
+    {
+        "file_name": "92.txt",
+        "url": "https://eng.kpfu.ru/how-to-move-in-an-apartment/"
+    },
+    {
+        "file_name": "93.txt",
+        "url": "https://eng.kpfu.ru/student-residence/"
+    },
+    {
+        "file_name": "94.txt",
+        "url": "https://eng.kpfu.ru/dining/"
+    },
+    {
+        "file_name": "95.txt",
+        "url": "https://eng.kpfu.ru/library/"
+    },
+    {
+        "file_name": "96.txt",
+        "url": "https://eng.kpfu.ru/planetarium/"
+    },
+    {
+        "file_name": "97.txt",
+        "url": "https://eng.kpfu.ru/student-activities-organizations/kfu-club-of-international-friendship/"
+    },
+    {
+        "file_name": "98.txt",
+        "url": "https://eng.kpfu.ru/athletics/"
+    },
+    {
+        "file_name": "99.txt",
+        "url": "https://eng.kpfu.ru/safety-security/"
+    },
+    {
+        "file_name": "100.txt",
+        "url": "https://eng.kpfu.ru/announcements/working-schedule/"
+    }
+]
