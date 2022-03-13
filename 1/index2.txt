@@ -1,0 +1,402 @@
+[
+    {
+        "file_name": "1.txt",
+        "url": "https://kpfu.ru/"
+    },
+    {
+        "file_name": "2.txt",
+        "url": "http://kpfu.ru/admissions"
+    },
+    {
+        "file_name": "3.txt",
+        "url": "https://kadry.kpfu.ru/"
+    },
+    {
+        "file_name": "4.txt",
+        "url": "https://kpfu.ru/library"
+    },
+    {
+        "file_name": "5.txt",
+        "url": "https://kpfu.ru/about_university/struct"
+    },
+    {
+        "file_name": "6.txt",
+        "url": "https://kpfu.ru/about_university/document"
+    },
+    {
+        "file_name": "7.txt",
+        "url": "https://kpfu.ru/about_university/istoriya-universiteta"
+    },
+    {
+        "file_name": "8.txt",
+        "url": "https://kpfu.ru/staff/sotrudniki-kfu"
+    },
+    {
+        "file_name": "9.txt",
+        "url": "https://kpfu.ru/studentu/studenty-kfu"
+    },
+    {
+        "file_name": "10.txt",
+        "url": "https://kpfu.ru/open"
+    },
+    {
+        "file_name": "11.txt",
+        "url": "https://kpfu.ru/edu/povyshennye-stipendii"
+    },
+    {
+        "file_name": "12.txt",
+        "url": "https://kpfu.ru/do/struktura-i-funkcii/otdel-razvitiya-karery/praktika-165"
+    },
+    {
+        "file_name": "13.txt",
+        "url": "https://kpfu.ru/do/struktura-i-funkcii/otdel-razvitiya-karery/rabotodatelyam"
+    },
+    {
+        "file_name": "14.txt",
+        "url": "https://kpfu.ru/edu/dopolnitelnoe-obrazovanie"
+    },
+    {
+        "file_name": "15.txt",
+        "url": "https://kpfu.ru/nauka-i-issledovaniya/plans-research"
+    },
+    {
+        "file_name": "16.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=5041"
+    },
+    {
+        "file_name": "17.txt",
+        "url": "https://kpfu.ru/science/eksportnyj-kontrol"
+    },
+    {
+        "file_name": "18.txt",
+        "url": "https://kpfu.ru/science/upravlenie-nauchno-issledovatelskoj-deyatelnosti/dokumenty"
+    },
+    {
+        "file_name": "19.txt",
+        "url": "https://kpfu.ru/science/konferencii/perechen-nauchno-tehnicheskih-meropriyatij-kfu"
+    },
+    {
+        "file_name": "20.txt",
+        "url": "https://kpfu.ru/science/2021-god-god-nauki-i-tehnologij"
+    },
+    {
+        "file_name": "21.txt",
+        "url": "https://kpfu.ru/glavnaya/zdravoohranenie"
+    },
+    {
+        "file_name": "22.txt",
+        "url": "https://kpfu.ru/social/o-merah-po-preduprezhdeniju-koronavirusa-i-117857"
+    },
+    {
+        "file_name": "23.txt",
+        "url": "https://kpfu.ru/biology-medicine/struktura-instituta/centr-simulyacionnogo-i-imitacionnogo-obucheniya/inzhiniringovyj-centr-medicinskih-simulyatorov"
+    },
+    {
+        "file_name": "24.txt",
+        "url": "https://admissions.kpfu.ru/#nopage"
+    },
+    {
+        "file_name": "25.txt",
+        "url": "https://kpfu.ru/international/migracionnoe-soprovozhdenie-inostrannyh-grazhdan"
+    },
+    {
+        "file_name": "26.txt",
+        "url": "https://kpfu.ru/international/priznanie-inostrannogo-obrazovaniya"
+    },
+    {
+        "file_name": "27.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=5056"
+    },
+    {
+        "file_name": "28.txt",
+        "url": "https://kpfu.ru/alumnus"
+    },
+    {
+        "file_name": "29.txt",
+        "url": "https://kpfu.ru/job"
+    },
+    {
+        "file_name": "30.txt",
+        "url": "https://kpfu.ru/direkciya-sportivnyh-kompleksov"
+    },
+    {
+        "file_name": "31.txt",
+        "url": "https://kpfu.ru/social/god-rodnyh-yazykov-i-narodnogo-edinstva"
+    },
+    {
+        "file_name": "32.txt",
+        "url": "https://media.kpfu.ru/news"
+    },
+    {
+        "file_name": "33.txt",
+        "url": "https://students.kpfu.ru/about-student-club/club/about"
+    },
+    {
+        "file_name": "34.txt",
+        "url": "https://kpfu.ru/Polina.Ermolaeva"
+    },
+    {
+        "file_name": "35.txt",
+        "url": "https://kpfu.ru/admissions"
+    },
+    {
+        "file_name": "36.txt",
+        "url": "https://prepschool.kpfu.ru/"
+    },
+    {
+        "file_name": "37.txt",
+        "url": "https://geogr.kpfu.ru/"
+    },
+    {
+        "file_name": "38.txt",
+        "url": "https://geo.kpfu.ru/"
+    },
+    {
+        "file_name": "39.txt",
+        "url": "https://imm.kpfu.ru/"
+    },
+    {
+        "file_name": "40.txt",
+        "url": "https://physics.kpfu.ru/"
+    },
+    {
+        "file_name": "41.txt",
+        "url": "https://computing.kpfu.ru/"
+    },
+    {
+        "file_name": "42.txt",
+        "url": "https://www.kpfu.ru/main_page?p_sub=222"
+    },
+    {
+        "file_name": "43.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=88"
+    },
+    {
+        "file_name": "44.txt",
+        "url": "https://biology.kpfu.ru/"
+    },
+    {
+        "file_name": "45.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=22881"
+    },
+    {
+        "file_name": "46.txt",
+        "url": "https://kpfu.ru/imoiv"
+    },
+    {
+        "file_name": "47.txt",
+        "url": "https://kpfu.ru/institutes/isfnmk"
+    },
+    {
+        "file_name": "48.txt",
+        "url": "https://hspa.kpfu.ru/"
+    },
+    {
+        "file_name": "49.txt",
+        "url": "https://kpfu.ru/chelny"
+    },
+    {
+        "file_name": "50.txt",
+        "url": "https://kpfu.ru/elabuga"
+    },
+    {
+        "file_name": "51.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=10707"
+    },
+    {
+        "file_name": "52.txt",
+        "url": "https://www.kpfu.ru/main_page?p_sub=6112"
+    },
+    {
+        "file_name": "53.txt",
+        "url": "https://kpfu.ru/main_page?p_sub=216"
+    },
+    {
+        "file_name": "54.txt",
+        "url": "https://fpk.kpfu.ru/"
+    },
+    {
+        "file_name": "55.txt",
+        "url": "https://students.kpfu.ru/universiade-village/population-of-foreigners"
+    },
+    {
+        "file_name": "56.txt",
+        "url": "https://students.kpfu.ru/universiade-village/check-order"
+    },
+    {
+        "file_name": "57.txt",
+        "url": "https://students.kpfu.ru/scholarship-commissions/academic"
+    },
+    {
+        "file_name": "58.txt",
+        "url": "https://students.kpfu.ru/about-student-club/kvn/komand1"
+    },
+    {
+        "file_name": "59.txt",
+        "url": "https://students.kpfu.ru/medecine/checkup"
+    },
+    {
+        "file_name": "60.txt",
+        "url": "https://students.kpfu.ru/work/vacancies-rus"
+    },
+    {
+        "file_name": "61.txt",
+        "url": "https://students.kpfu.ru/work/information/about"
+    },
+    {
+        "file_name": "62.txt",
+        "url": "https://admissions.kpfu.ru/comission"
+    },
+    {
+        "file_name": "63.txt",
+        "url": "https://admissions.kpfu.ru/selection-committee/calendar/month?field_tip_meropriatia_target_id[145]=145&field_tip_meropriatia_target_id[2]=2&field_tip_meropriatia_target_id[3]=3&field_tip_meropriatia_target_id[4]=4&field_tip_meropriatia_target_id[7]=7&field_tip_meropriatia_target_id[1]=1"
+    },
+    {
+        "file_name": "64.txt",
+        "url": "https://admissions.kpfu.ru/comission-news?field_kategoria_novosti_target_id[14]=14&field_kategoria_novosti_target_id[12]=12&field_kategoria_novosti_target_id[9]=9&field_kategoria_novosti_target_id[15]=15&field_kategoria_novosti_target_id[18]=18&field_kategoria_novosti_target_id[13]=13&field_kategoria_novosti_target_id[11]=11&field_kategoria_novosti_target_id[17]=17&field_kategoria_novosti_target_id[16]=16&field_kategoria_novosti_target_id[8]=8"
+    },
+    {
+        "file_name": "65.txt",
+        "url": "https://admissions.kpfu.ru/reception-results?field_god_priema_target_id=38"
+    },
+    {
+        "file_name": "66.txt",
+        "url": "https://admissions.kpfu.ru/selection-committee/faq"
+    },
+    {
+        "file_name": "67.txt",
+        "url": "https://admissions.kpfu.ru/kontakty/kontakty-priemnoi-komissii"
+    },
+    {
+        "file_name": "68.txt",
+        "url": "https://admissions.kpfu.ru/priemnaa-komissia/instrukcia-po-postupleniu"
+    },
+    {
+        "file_name": "69.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/priem-2017"
+    },
+    {
+        "file_name": "70.txt",
+        "url": "https://admissions.kpfu.ru/admission-campaign/calendar/month?field_tip_meropriatia_target_id[93]=93&field_tip_meropriatia_target_id[144]=144&field_tip_meropriatia_target_id[95]=95&field_tip_meropriatia_target_id[96]=96&field_tip_meropriatia_target_id[92]=92"
+    },
+    {
+        "file_name": "71.txt",
+        "url": "https://admissions.kpfu.ru/glavnaa-stranica/priem-v-universitet/priemnaa-kampania/priem-lic-imeusih-osobye-prava"
+    },
+    {
+        "file_name": "72.txt",
+        "url": "https://admissions.kpfu.ru/glavnaa-stranica/priem-v-universitet/priemnaa-kampania/priem-na-celevye-mesta"
+    },
+    {
+        "file_name": "73.txt",
+        "url": "https://admissions.kpfu.ru/glavnaa-stranica/priem-v-universitet/priem-pobeditelei-i-prizerov-olimpiad"
+    },
+    {
+        "file_name": "74.txt",
+        "url": "https://admissions.kpfu.ru/glavnaa-stranica/priem-v-universitet/obsezitia"
+    },
+    {
+        "file_name": "75.txt",
+        "url": "https://admissions.kpfu.ru/glavnaa-stranica/priem-v-universitet/medicinskii-osmotr"
+    },
+    {
+        "file_name": "76.txt",
+        "url": "https://admissions.kpfu.ru/regulations/federal-docs"
+    },
+    {
+        "file_name": "77.txt",
+        "url": "https://admissions.kpfu.ru/regulations/base-docs"
+    },
+    {
+        "file_name": "78.txt",
+        "url": "https://admissions.kpfu.ru/regulations/comission-docs"
+    },
+    {
+        "file_name": "79.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/priem-2017"
+    },
+    {
+        "file_name": "80.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/programmy-vstupitelnyh-ispytanii-0"
+    },
+    {
+        "file_name": "81.txt",
+        "url": "https://admissions.kpfu.ru/ege/test"
+    },
+    {
+        "file_name": "82.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/bakalavriat/specialitet/speciality?in%5B209%5D=209&in%5B165%5D=165&in%5B203%5D=203&in%5B192%5D=192&in%5B180%5D=180&in%5B150%5D=150&in%5B207%5D=207&in%5B159%5D=159&in%5B205%5D=205&in%5B161%5D=161&in%5B164%5D=164&in%5B206%5D=206&in%5B157%5D=157&in%5B148%5D=148&in%5B151%5D=151&in%5B171%5D=171&in%5B19%5D=19&in%5B170%5D=170&f%5B%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&f%5B%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&f%5B%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&tp%5B%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82%5D=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&tp%5B%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82%5D=%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82"
+    },
+    {
+        "file_name": "83.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/bakalavriat/plan?inst%5B209%5D=209&inst%5B165%5D=165&inst%5B203%5D=203&inst%5B192%5D=192&inst%5B180%5D=180&inst%5B150%5D=150&inst%5B207%5D=207&inst%5B159%5D=159&inst%5B205%5D=205&inst%5B161%5D=161&inst%5B164%5D=164&inst%5B206%5D=206&inst%5B157%5D=157&inst%5B148%5D=148&inst%5B151%5D=151&inst%5B171%5D=171&inst%5B19%5D=19&inst%5B170%5D=170&f%5B%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&f%5B%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&f%5B%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F"
+    },
+    {
+        "file_name": "84.txt",
+        "url": "https://admissions.kpfu.ru/minimum?inst%5B209%5D=209&inst%5B165%5D=165&inst%5B203%5D=203&inst%5B192%5D=192&inst%5B180%5D=180&inst%5B150%5D=150&inst%5B207%5D=207&inst%5B159%5D=159&inst%5B205%5D=205&inst%5B161%5D=161&inst%5B164%5D=164&inst%5B206%5D=206&inst%5B157%5D=157&inst%5B148%5D=148&inst%5B151%5D=151&inst%5B171%5D=171&inst%5B19%5D=19&inst%5B170%5D=170&f%5B%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&f%5B%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&f%5B%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&sb=1&sp=1"
+    },
+    {
+        "file_name": "85.txt",
+        "url": "https://admissions.kpfu.ru/exams?inst%5B188%5D=188&inst%5B209%5D=209&inst%5B165%5D=165&inst%5B203%5D=203&inst%5B192%5D=192&inst%5B180%5D=180&inst%5B150%5D=150&inst%5B207%5D=207&inst%5B159%5D=159&inst%5B205%5D=205&inst%5B161%5D=161&inst%5B164%5D=164&inst%5B206%5D=206&inst%5B157%5D=157&inst%5B148%5D=148&inst%5B151%5D=151&inst%5B171%5D=171&inst%5B19%5D=19&inst%5B170%5D=170&fo%5B%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&fo%5B%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&fo%5B%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%5D=%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F+%D1%84%D0%BE%D1%80%D0%BC%D0%B0+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F"
+    },
+    {
+        "file_name": "86.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/stoimost-obucenia-0"
+    },
+    {
+        "file_name": "87.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/bakalavriat/specialitet/dokumenty-dla-postuplenia"
+    },
+    {
+        "file_name": "88.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/programmy-vstupitelnyh-ispytanii"
+    },
+    {
+        "file_name": "89.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/magistratura/speciality?inst[209]=209&inst[165]=165&inst[203]=203&inst[192]=192&inst[180]=180&inst[150]=150&inst[207]=207&inst[159]=159&inst[205]=205&inst[161]=161&inst[164]=164&inst[206]=206&inst[157]=157&inst[148]=148&inst[151]=151&inst[171]=171&inst[19]=19&inst[170]=170&field_forma_obucenia_value[%D0%9E%D1%87%D0%BD%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F]=%D0%9E%D1%87%D0%BD%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&field_forma_obucenia_value[%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F]=%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&field_forma_obucenia_value[%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F]=%D0%9E%D1%87%D0%BD%D0%BE-%D0%B7%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F&tp[%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82]=%D0%91%D1%8E%D0%B4%D0%B6%D0%B5%D1%82&tp[%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82]=%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82"
+    },
+    {
+        "file_name": "90.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/magistratura/plan?inst%5B209%5D=209&inst%5B165%5D=165&inst%5B203%5D=203&inst%5B192%5D=192&inst%5B180%5D=180&inst%5B150%5D=150&inst%5B207%5D=207&inst%5B159%5D=159&inst%5B205%5D=205&inst%5B161%5D=161&inst%5B164%5D=164&inst%5B206%5D=206&inst%5B157%5D=157&inst%5B148%5D=148&inst%5B151%5D=151&inst%5B171%5D=171&inst%5B19%5D=19&inst%5B170%5D=170"
+    },
+    {
+        "file_name": "91.txt",
+        "url": "https://admissions.kpfu.ru/magistrat/exams?inst[209]=209&inst[165]=165&inst[203]=203&inst[192]=192&inst[180]=180&inst[150]=150&inst[207]=207&inst[159]=159&inst[205]=205&inst[161]=161&inst[164]=164&inst[206]=206&inst[157]=157&inst[148]=148&inst[151]=151&inst[171]=171&inst[19]=19&inst[170]=170"
+    },
+    {
+        "file_name": "92.txt",
+        "url": "https://admissions.kpfu.ru/vyssee-obrazovanie/magistratura/dokumenty-dla-postuplenia"
+    },
+    {
+        "file_name": "93.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/informacia-o-nalicii-obsezitii"
+    },
+    {
+        "file_name": "94.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/kolicestvo-mest-dla-priema-na-obucenie-na-2017/2018-ucebnyi-god"
+    },
+    {
+        "file_name": "95.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/napravlenia-obucenia-v-aspiranture"
+    },
+    {
+        "file_name": "96.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/osobennosti-provedenia-vstupitelnyh-ispytanii-dla-grazdan-s-ogranicennymi"
+    },
+    {
+        "file_name": "97.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/pravila-podaci-i-rassmotrenia-apellacii-po-rezultatam-vstupitelnyh-ispytanii"
+    },
+    {
+        "file_name": "98.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/priem-2017-0"
+    },
+    {
+        "file_name": "99.txt",
+        "url": "https://admissions.kpfu.ru/priem-v-universitet/programmy-vstupitelnyh-ekzamenov"
+    },
+    {
+        "file_name": "100.txt",
+        "url": "https://admissions.kpfu.ru/srednee-obrazovanie/ob-it-licee"
+    }
+]
