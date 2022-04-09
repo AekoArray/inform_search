@@ -16,7 +16,7 @@ def get_indexes(tf_idf_data):
 
 
 def read_tf_idf_file():
-    with open("../4/index.txt", encoding='utf-8') as file:
+    with open("../4/tfidf.txt", encoding='utf-8') as file:
         return json5.load(file)
 
 
@@ -67,8 +67,8 @@ def get_query_vector(query, all_files_words):
 def get_distances(query_vector, matrix):
     distances = list()
     for i, vector in enumerate(matrix):
-        distance = spatial.distance.cosine(query_vector, vector)
-        distance = distance or 1
+        distance = 1 - spatial.distance.cosine(query_vector, vector)
+        distance = distance or 0
         distances.append(distance)
     return distances
 
@@ -95,6 +95,7 @@ def convert_distances_to_results(distances):
 
 
 query = "Прием заявок КФУ"
+query1 = "спортивный комплекс кфу"
 tf_idf_data = read_tf_idf_file()
 all_files_words = get_indexes(tf_idf_data)
 matrix = create_matrix(all_files_words, tf_idf_data)
