@@ -67,8 +67,8 @@ def get_query_vector(query, all_files_words):
 def get_distances(query_vector, matrix):
     distances = list()
     for i, vector in enumerate(matrix):
-        distance = 1 - spatial.distance.cosine(query_vector, vector)
-        distance = distance or 0
+        distance = spatial.distance.cosine(query_vector, vector)
+        distance = distance or 1
         distances.append(distance)
     return distances
 
